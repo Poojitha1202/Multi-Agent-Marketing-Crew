@@ -1,4 +1,4 @@
-![Banner](./marketing.png)
+![Banner](./image.png)
 
 # 🚀 Multi-Agent Marketing Crew
 
